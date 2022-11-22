@@ -1,8 +1,8 @@
 # Tristan MALZIEU
 
-élève en 2nde année de BTS SIO
+Je suis élève en 2nde année de BTS SIO au lycée Aristide Berges
 
-pour me contacter : 
+Pour me contacter : 
 tristan.malzieu@gmail.com
 
 <!---
