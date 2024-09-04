@@ -1,6 +1,6 @@
 # Tristan MALZIEU
 
-Je suis élève en 2nde année de BTS SIO au lycée Aristide Berges
+Je suis élève en 3eme année de BUT INFO à L'université d'annecy
 
 Pour me contacter : 
 tristan.malzieu@gmail.com
